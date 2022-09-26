@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "nodemon ./src/main.js",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "vite-require": "^0.2.3",
+    "vitest": "^0.23.4"
+  }
+}
